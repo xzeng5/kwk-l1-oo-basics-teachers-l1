@@ -56,5 +56,3 @@ class Book
   end
 
 end
-
-
