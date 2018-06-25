@@ -1,5 +1,5 @@
 # book.rb
 # Add you Book class here
-class Book
-  
+class Book(title)
+
 end
